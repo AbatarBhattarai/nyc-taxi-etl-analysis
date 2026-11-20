@@ -1,0 +1,12 @@
+# Raw data (download separately — see README "How to run")
+data/
+*.parquet
+*.csv
+
+# Generated database
+*.db
+
+# Python
+.venv/
+__pycache__/
+*.pyc
